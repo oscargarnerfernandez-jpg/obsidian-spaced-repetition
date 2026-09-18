@@ -1,0 +1,9 @@
+{
+  "id": "spaced-repetition",
+  "name": "Spaced Repetition",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Review every Markdown note as one Anki-style flashcard, entirely offline.",
+  "author": "oscargarnerfernandez-jpg",
+  "isDesktopOnly": false
+}
